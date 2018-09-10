@@ -1,4 +1,4 @@
-require 
+require "pry"
 def hopper
 	programmer_hash = 
  		{
@@ -127,3 +127,5 @@ def adding_to_dennis
      }
 
 end
+
+pry.binding
